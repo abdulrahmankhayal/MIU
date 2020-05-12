@@ -8,3 +8,8 @@
 #object_detection_deploy:the soruce code used to deploy object_detection moddels
 
 #the reaming files used for data prepartion
+
+#the trained models,datasets and tool scan be found through the following drive link :
+https://drive.google.com/open?id=1qSPGVOjYmW7NBADHTKKaia7yolrnnWoE
+
+
