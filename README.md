@@ -9,8 +9,8 @@
 
 #the reaming files used for data prepartion
 
-#the trained models,datasets, results, hyperparameters cofigs and tool can be found through the following drive link :
+#the trained models,datasets, results, hyperparameters cofigs, proteus simulations, embedded codes and tools can be found through the following drive link :
 https://drive.google.com/open?id=1qSPGVOjYmW7NBADHTKKaia7yolrnnWoE
 
-#the presentation file found on the same drive link
+#the presentation file found on the same drive link 
 
