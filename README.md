@@ -5,7 +5,7 @@
 #train_eval:the source code used to train and evaluate object_detection models
 
 
-#object_detection_deploy:the soruce code used to deploy object_detection moddels
+#object_detection_deploy:the code used to deploy object_detection moddels
 
 #the reaming files used for data prepartion
 
